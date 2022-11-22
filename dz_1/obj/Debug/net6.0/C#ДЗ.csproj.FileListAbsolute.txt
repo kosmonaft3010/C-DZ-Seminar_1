@@ -1,0 +1,15 @@
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\bin\Debug\net6.0\C#ДЗ.exe
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\bin\Debug\net6.0\C#ДЗ.deps.json
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\bin\Debug\net6.0\C#ДЗ.runtimeconfig.json
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\bin\Debug\net6.0\C#ДЗ.dll
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\bin\Debug\net6.0\C#ДЗ.pdb
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\obj\Debug\net6.0\C#ДЗ.csproj.AssemblyReference.cache
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\obj\Debug\net6.0\C#ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\obj\Debug\net6.0\C#ДЗ.AssemblyInfoInputs.cache
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\obj\Debug\net6.0\C#ДЗ.AssemblyInfo.cs
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\obj\Debug\net6.0\C#ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\obj\Debug\net6.0\C#ДЗ.dll
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\obj\Debug\net6.0\refint\C#ДЗ.dll
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\obj\Debug\net6.0\C#ДЗ.pdb
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\obj\Debug\net6.0\C#ДЗ.genruntimeconfig.cache
+C:\Users\kosmonaft3010\Desktop\C#ДЗ\obj\Debug\net6.0\ref\C#ДЗ.dll
